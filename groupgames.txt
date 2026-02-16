@@ -1,0 +1,9 @@
+roulette.js
+mafia.js
+xo.js
+rps.js
+bomb.js
+chairs.js
+dice.js
+hide.js
+replica.js

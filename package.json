@@ -1,0 +1,22 @@
+{
+  "name": "Games bot by DarkAngel (q3yb)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "q3yb",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@napi-rs/canvas": "^0.1.84",
+    "axios": "^1.8.3",
+    "canvas": "^3.2.0",
+    "discord.js": "^14.23.2",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2"
+  }
+}
